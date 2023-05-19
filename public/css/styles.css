@@ -1,0 +1,5 @@
+#messages {
+    height: 25em;
+    overflow-y: auto;
+    margin-top: 2em;
+}
